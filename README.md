@@ -1,7 +1,7 @@
 # redz Library V4 Remake
 ## Library loadstring
 ```lua
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Shx121/RedzLibrary/refs/heads/main/RedzLibrary.lua"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Deter-code/Redz-LIBRARY-v4-remake/refs/heads/main/REDzLibrary.txt"))()
 ```
 
 library functions
